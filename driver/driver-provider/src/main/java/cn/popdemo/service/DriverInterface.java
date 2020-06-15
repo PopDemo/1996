@@ -1,6 +1,6 @@
 package cn.popdemo.service;
 
-public interface Driver {
+public interface DriverInterface {
     //个人状态页面
         //显示当前驾驶员的状态
 
