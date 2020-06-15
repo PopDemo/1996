@@ -7,7 +7,6 @@ public interface DriverInterface {
         //车牌号信息
         //出车信息
         //出车详细信息
-
     //个人信息页面
         //文件上传
         //驾驶员个人信息（ID、姓名、驾龄、年龄、性别）
